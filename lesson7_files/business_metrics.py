@@ -1,5 +1,8 @@
 """
-Business metrics calculation module for e-commerce data analysis.
+Business Metrics Module for E-commerce Analysis
+
+This module contains functions to calculate key business metrics and KPIs
+for e-commerce performance analysis with configurable date ranges.
 """
 
 import pandas as pd

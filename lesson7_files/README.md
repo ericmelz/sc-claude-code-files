@@ -1,15 +1,16 @@
-# E-commerce Business Analytics Dashboard
+# E-commerce Business Analytics Framework
 
-A comprehensive business intelligence solution featuring both Jupyter notebook analysis and a professional Streamlit dashboard for e-commerce sales data with configurable time periods and reusable business metrics calculations.
+A comprehensive, configurable analysis framework for e-commerce business performance metrics, customer satisfaction, and operational efficiency analysis with modular architecture and professional visualizations.
 
 ## Overview
 
-This project transforms a basic exploratory data analysis into a professional, maintainable business intelligence framework. The refactored solution provides:
+This refactored analysis framework provides:
 
-- **Configurable Analysis**: Easily analyze any time period or compare different years
-- **Modular Architecture**: Reusable data loading and metrics calculation modules
-- **Professional Visualizations**: Business-oriented charts with proper formatting
-- **Strategic Insights**: Automated generation of business recommendations
+- **Configurable date range analysis** with year-over-year comparisons
+- **Modular architecture** with reusable data loading and metrics calculation
+- **Comprehensive business metrics** covering revenue, products, geography, and customer experience
+- **Professional visualizations** with consistent business-oriented styling
+- **Strategic insights** with data-driven recommendations and executive summaries
 
 ## Project Structure
 

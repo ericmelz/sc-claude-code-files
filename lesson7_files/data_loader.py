@@ -1,5 +1,8 @@
 """
-Data loading and processing module for e-commerce data analysis.
+Data Loading and Processing Module for E-commerce Analysis
+
+This module provides functions for loading, cleaning, and preprocessing 
+e-commerce data from CSV files for business analytics.
 """
 
 import pandas as pd
@@ -15,9 +18,9 @@ class EcommerceDataLoader:
     A class for loading and processing e-commerce data.
     """
     
-    def __init__(self, data_path: str = 'ecommerce_data/'):
+    def __init__(self, data_path: str = 'ecommerce_data'):
         """
-        Initialize the data loader.
+        Initialize the data loader with the path to data files.
         
         Args:
             data_path (str): Path to the directory containing CSV files

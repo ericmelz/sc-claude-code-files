@@ -1,8 +1,31 @@
-pandas>=1.5.0
-numpy>=1.21.0
-matplotlib>=3.5.0
-seaborn>=0.11.0
-plotly>=5.0.0
-streamlit>=1.28.0
+# E-commerce Business Analytics Requirements
+# Core data analysis and manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Statistical analysis (optional but recommended)
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# Jupyter notebook environment
 jupyter>=1.0.0
-ipykernel>=6.0.0
+ipython>=8.0.0
+ipykernel>=6.20.0
+nbformat>=5.7.0
+
+# Development and code quality
+black>=23.0.0
+flake8>=6.0.0
+isort>=5.12.0
+
+# Optional dependencies for enhanced analysis
+# Uncomment if needed for advanced features
+# scikit-learn>=1.2.0  # For machine learning models
+# folium>=0.14.0       # For advanced geographic visualizations  
+# dash>=2.14.0         # For interactive web dashboards
+# streamlit>=1.25.0    # For alternative dashboard creation
